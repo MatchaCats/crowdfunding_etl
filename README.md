@@ -1,2 +1,2 @@
 # crowdfunding_etl
-Software Used: SQL, PgAdmin, Jupyter Notebook, VS Code
+Software Used: SQL, PgAdmin, Jupyter Notebook, Pandas, NumPy, VS Code
