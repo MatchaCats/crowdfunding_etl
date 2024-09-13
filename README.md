@@ -1,2 +1,2 @@
 # crowdfunding_etl
-Software Used: (Add in later)
+Software Used: SQL, PgAdmin, Jupyter Notebook, VS Code
